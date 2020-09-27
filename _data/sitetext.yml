@@ -1,6 +1,7 @@
 header:
     title: Welcome to our Studio!
     text: It's Nice To Meet You
+    text: <meta name="yandex-verification" content="5ad3f225e8c39435" />
     button: Tell Me More
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
