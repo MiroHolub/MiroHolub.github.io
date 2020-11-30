@@ -1,8 +1,10 @@
 #Color Customization
 #highlight: "#54bfff"
-white: "#a5d2e4"
+#white: "#a5d2e4"
 #black: "#000"
 
 #Image Customization
-header-image: "../img/header-bg.jpg"
+header-image: "../img/header-bg_dark.jpg"
 contact-image: "../img/map-image.png"
+big-logo-height: 40
+small-logo-height: 30

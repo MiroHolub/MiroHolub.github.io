@@ -13,6 +13,9 @@ nav:
 
   - title: "Contact"
     section: contact
+  
+  - title: "Shop"
+    url: https://NordicPupu.etsy.com/
 
-  - title: "Theme Source"
-    url: https://github.com/raviriley/agency-jekyll-theme/
+  #- title: "Theme Source"
+  #  url: https://github.com/raviriley/agency-jekyll-theme/
