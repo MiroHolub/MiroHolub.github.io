@@ -26,7 +26,7 @@ logo:
   height: 40 #height in px, defaults to 52px
 
 analytics:
-  google: G-75539VN1DM #Google Analytics tracking code here
+  google: UA-184205732-2 #Google Analytics tracking code here
 
 collections:
   portfolio:
